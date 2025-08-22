@@ -4,14 +4,14 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: blue;
+    background-color: sienna;
 }
 
 /* Header */
 header {
-    background-color: #4CAF50;
+    background-color: dark purple;
 
-    color: green;
+    color: red;
     text-align: center;
     padding: 20px;
 }
@@ -32,19 +32,19 @@ nav {
 }
 
 nav a {
-    color: green;
+    color: seashell;
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #4CAF50;
+    color: purple;
 }
 
 /* Sections */
 section {
-    background: green;
+    background: silver;
     margin: 20px auto;
     padding: 20px;
     max-width: 800px;
